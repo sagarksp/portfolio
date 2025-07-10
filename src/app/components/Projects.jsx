@@ -7,7 +7,7 @@ import { ExternalLink, Github } from 'lucide-react'
 
 const projects = [
   {
-    title: 'Dev-Tinder',
+    title: 'CodeMate',
     description: 'A Fully featured Platform Where Developer With Same Skills Can Make Contact with Each other.',
     image: '/devtinder.png',
     liveUrl: 'https://dev-tinder-frontend-chi.vercel.app/',
