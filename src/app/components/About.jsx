@@ -53,7 +53,7 @@ export default function About() {
             className="text-lg mb-6 text-secondary-600 dark:text-secondary-300"
             variants={itemVariants}
           >
-            Hello! I'm a passionate full stack developer with over 5 years of experience in creating robust and scalable web applications. My journey in the world of programming started with a fascination for turning ideas into reality through code.
+            Hello! I'm a passionate full stack developer with over 6 months of experience in creating robust and scalable web applications. My journey in the world of programming started with a fascination for turning ideas into reality through code.
           </motion.p>
           <motion.p
             className="text-lg mb-6 text-secondary-600 dark:text-secondary-300"
@@ -61,17 +61,12 @@ export default function About() {
           >
             I specialize in JavaScript ecosystems, with expertise in React, Node.js, and modern frameworks like Next.js. I'm also well-versed in database technologies, RESTful APIs, and cloud services. My approach to development is not just about writing code, but about crafting solutions that deliver real value to users and businesses.
           </motion.p>
-          <motion.p
-            className="text-lg mb-6 text-secondary-600 dark:text-secondary-300"
-            variants={itemVariants}
-          >
-            Throughout my career, I've had the opportunityThroughout my career, I've had the opportunity to work on a diverse range of projects, from e-commerce platforms to data visualization tools. I thrive in collaborative environments and enjoy tackling complex problems with innovative solutions.
-          </motion.p>
+       
           <motion.p
             className="text-lg text-secondary-600 dark:text-secondary-300"
             variants={itemVariants}
           >
-            When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing my knowledge through tech blogs and community meetups. I'm always excited about learning new things and pushing the boundaries of what's possible in web development.
+            When I'm not coding, you can find me exploring new technologies, or sharing my knowledge through tech blogs and community meetups. I'm always excited about learning new things and pushing the boundaries of what's possible in web development.
           </motion.p>
           <motion.div
             className="mt-8 text-center"
