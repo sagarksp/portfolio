@@ -5,6 +5,12 @@ import { useInView } from 'react-intersection-observer'
 import { Briefcase, Calendar } from 'lucide-react'
 
 const experiences = [
+   {
+    title: "Full Stack Developer",
+    company: "Wibro Solutions Pvt. Ltd.",
+    period: "2024 - Present",
+    description: "Lead development of cutting-edge web applications using Next.js, React, Node.js, and MongoDb."
+  },
   {
     title: "Full Stack Developer",
     company: "Wibro Solutions Pvt. Ltd.",
