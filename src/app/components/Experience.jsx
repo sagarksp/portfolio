@@ -7,7 +7,7 @@ import { Briefcase, Calendar } from 'lucide-react'
 const experiences = [
    {
     title: "Software Developer",
-    company: "Wibro Solutions Pvt. Ltd.",
+    company: "Vaaan Infra Pvt. Ltd.",
     period: "2025 - Present",
     description: "Lead development of cutting-edge web applications using C#, .NET, SVN, and MySql."
   },
