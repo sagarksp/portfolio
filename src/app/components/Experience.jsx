@@ -8,8 +8,8 @@ const experiences = [
    {
     title: "Software Developer",
     company: "Wibro Solutions Pvt. Ltd.",
-    period: "2024 - Present",
-    description: "Lead development of cutting-edge web applications using Next.js, React, Node.js, and MongoDb."
+    period: "2025 - Present",
+    description: "Lead development of cutting-edge web applications using C#, .NET, SVN, and MySql."
   },
   {
     title: "Full Stack Developer",
